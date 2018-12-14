@@ -1,10 +1,13 @@
-# Image from Network
+# FlutterImageNetwork
 
-Example app showing implemention of image from network.
+Flutter网络图片展示。
 
-<img src="demo_img.gif" height="600em" />
+## 参考资料
 
+#### 示例图
 
-## Getting Started
+![image](https://github.com/GhostWenju/FlutterImageNetwork/blob/master/flutter_image.png)
 
-For help getting started with Flutter, view online [documentation](http://flutter.io/).
+- [官网: 你的第一个Flutter项目](https://flutter.io/docs/get-started/codelab)
+- [菜单:Flutter学习](https://flutter.io/docs/cookbook) 
+- [官方在线文档](https://flutter.io/docs)
